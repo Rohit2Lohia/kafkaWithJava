@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-basics'
+include 'kafka-one'
+include 'kafka-two'
+include 'Kafka-WikiMedia'
+
